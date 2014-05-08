@@ -16,4 +16,4 @@ Run demo
    $ bin/sphinx-build -b html docs build
 
 
-`Code inspired by *plone.thempreview* product . <Code inspired by plone.thempreview product/>`_
+`Code inspired by *plone.thempreview* product . <https://github.com/plone/plone.themepreview/>`_
